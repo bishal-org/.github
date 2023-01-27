@@ -1,0 +1,6 @@
+{
+    "name": "Node.js with tests2",
+    "description": "Build and test a Node.js project with npm.",
+    "iconName": "nodejs",
+    "categories": ["Continuous integration", "JavaScript", "npm", "React", "Angular", "Vue"]
+}
